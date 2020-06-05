@@ -1,0 +1,129 @@
+body{
+    padding: 1%;
+    background: #FBEFDF;
+    height: 1070px;
+    webkit-scrollbar {
+        display: none;
+    }
+}
+.border{
+    position: absolute;
+    width: 1338px;
+    height: 923px;
+    left: 94px;
+    top: 81px;
+    border: 5px solid #F2A648;
+    border-radius: 42px;
+}
+.welcome{
+    position: absolute;
+    width: 618px;
+    height: 113px;
+    left: 388px;
+    top: 260px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 112px;
+    /* identical to box height */
+
+    letter-spacing: 0.285em;
+
+    color: #D47500;
+}
+.btn{
+    position: absolute;
+    width: 237px;
+    height: 73px;
+    left: 578px;
+    top: 623px;
+    padding: 1%;
+    border: none;
+    background: #F2A648;
+    border-radius: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 22px;
+    letter-spacing: 0.285em;
+
+    color: #FFFFFF;
+}
+
+.hpybday{
+    position: absolute;
+    width: 840px;
+    height: 113px;
+    left: 200px;
+    top: 100px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 112px;
+    /* identical to box height */
+    
+    letter-spacing: 0.03em;
+    
+    color: #D47500;
+}
+.hpybday:hover{
+    letter-spacing: 0.4em;
+    transition-delay: 0.3s;
+    transition-duration: 2s;
+}
+.name{
+    position: absolute;
+    width: 728px;
+    height: 30px;
+    left: 353px;
+    top: 378px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.58em;
+    
+    color: #D47500;
+}
+.name:hover{
+    top: 438px;
+    line-height: 62px;
+    transition-delay: 0.5s;
+    transition-duration: 0.5s;
+}
+.wishesfrom{
+    position: absolute;
+    width: 307px;
+    height: 30px;
+    left: 505px;
+    top: 685px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.3em;
+    
+    color: #D47500;
+}
+.imgspc{
+    /* position: absolute;
+    width: 419px;
+    height: 84px;
+    left: 505px;
+    top: 843px; */
+}
+img{
+    position: absolute;
+    width: 419px;
+    height: 84px;
+    left: 505px;
+    top: 743px;
+}
