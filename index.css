@@ -94,8 +94,8 @@ body{
 .name:hover{
     top: 438px;
     line-height: 62px;
-    transition-delay: 0.5s;
-    transition-duration: 0.5s;
+    transition-delay: 1s;
+    transition-duration: 1.5s;
 }
 .wishesfrom{
     position: absolute;
